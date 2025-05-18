@@ -1,0 +1,19 @@
+Szanujemy prywatność użytkowników korzystających z naszej aplikacji.
+
+Aby dowiedzieć się więcej na temat ochrony danych użytkowników, prosimy o zapoznanie się z informacjami dotyczącymi naszej polityki prywatności.
+
+Korzystając z aplikacji akceptujesz zasady polityki prywatności.
+Wśród informacji uzyskiwanych podczas korzystania z aplikacji mogą być:
+Informacje w dziennikach serwerów - nasze serwery automatycznie zapisują takie dane, jak żądanie strony wysyłane przez użytkownika, datę i godzinę żądania, typ urządzenia, język urządzenia, typ systemu operacyjnego, adres IP (adres IP - każdy komputer podłączony do Internetu ma przypisany niepowtarzalny numer, czyli adres IP).
+
+Używamy google-analytics.com, które służy do prowadzenia statystyk dla aplikacji. Dokładny sposób działania i politykę prywatności znajdziesz na stronie Google Analytics. Anonimowe statystyki umożliwiają poznania oczekiwania naszych użytkowników i rozwijamy aplikacje tak, aby ułatwić dotarcie do najczęściej poszukiwanych informacji.
+
+Właścicielem serwisu jest Pawel Domzalski z siedzibą w Rotmance, ul. Bajki 15/8. Wszelkie dane są w nich gromadzone przy zastosowaniu odpowiednich środków ochrony poufności, integralności i bezpieczeństwa informacji.
+Zbierane dane służą do zapewnienia określonych usług naszym użytkownikom oraz do celów administracyjnych i statystycznych.
+
+Aby skutecznie chronić zbierane dane zabezpieczamy je przed nieuprawnionym dostępem osób trzecich oraz kontrolujemy nasze metody gromadzenia, przechowywania i przetwarzania informacji. Dostępu do danych udzielamy jedynie tym pracownikom i podmiotom, które muszą mieć do nich dostęp, aby je przetwarzać wyłącznie w celach opisanych w polityce prywatności.
+Nie ponosimy odpowiedzialności za politykę prywatności na stronach, do których prowadzą linki zamieszczane w aplikacji. Dlatego zachęcamy po przejściu do tych serwisów do zapoznania się z obowiązującymi tam zasadami.
+
+Za zgodą Użytkownika dostęp do informacji o korzystaniu z Serwisu mogą mieć Zaufani Partnerzy, którzy wykorzystują pliki cookies lub podobne technologie do zbierania i przetwarzania danych osobowych w celu personalizowania treści, jako odrębni administratorzy. Zaufani Partnerzy, z którymi Administrator współpracuje w związku z korzystaniem z ich usług lub narzędzi, pozwalających m.in. na personalizowanie treści i usług oferowanych w Serwisie, należący do następujących kategorii: reklamodawcy, domy mediowe, firmy oferujące narzędzia do zarządzania kampaniami reklamowymi oraz właściciele serwisów internetowych. Partnerzy mogą m.in. analizować, zestawiać i łączyć informacje z Serwisu z innymi posiadanymi przez nich informacjami np. związanymi z korzystaniem przez Użytkownika z ich usług lub podejmowaniem przez Użytkownika aktywności w innych serwisach internetowych, jako odrębni administratorzy. Informacje o zasadach przetwarzania przez Zaufanych Parterów danych osobowych oraz korzystania z plików cookies oraz innych technologii są dostarczane w ustalony przez nich sposób.
+
+W przypadku zmian w naszej polityce prywatności zostanie ona odpowiednio uaktualniona.
