@@ -6,7 +6,7 @@ Korzystając z aplikacji akceptujesz zasady polityki prywatności.
 Wśród informacji uzyskiwanych podczas korzystania z aplikacji mogą być:
 Informacje w dziennikach serwerów - nasze serwery automatycznie zapisują takie dane, jak żądanie strony wysyłane przez użytkownika, datę i godzinę żądania, typ urządzenia, język urządzenia, typ systemu operacyjnego, adres IP (adres IP - każdy komputer podłączony do Internetu ma przypisany niepowtarzalny numer, czyli adres IP).
 
-Używamy google-analytics.com, które służy do prowadzenia statystyk dla aplikacji. Dokładny sposób działania i politykę prywatności znajdziesz na stronie Google Analytics. Anonimowe statystyki umożliwiają poznania oczekiwania naszych użytkowników i rozwijamy aplikacje tak, aby ułatwić dotarcie do najczęściej poszukiwanych informacji.
+Używamy analytics.google.com i firebase.google.com, które służy do prowadzenia statystyk dla aplikacji. Dokładny sposób działania i politykę prywatności znajdziesz na stronie Google Analytics. Anonimowe statystyki umożliwiają poznania oczekiwania naszych użytkowników i rozwijamy aplikacje tak, aby ułatwić dotarcie do najczęściej poszukiwanych informacji.
 
 Właścicielem serwisu jest Pawel Domzalski z siedzibą w Rotmance, ul. Bajki 15/8. Wszelkie dane są w nich gromadzone przy zastosowaniu odpowiednich środków ochrony poufności, integralności i bezpieczeństwa informacji.
 Zbierane dane służą do zapewnienia określonych usług naszym użytkownikom oraz do celów administracyjnych i statystycznych.
