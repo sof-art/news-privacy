@@ -1,0 +1,21 @@
+We respect the privacy of users who use our application.
+
+To learn more about protecting user data, please read the information regarding our privacy policy.
+
+By using the application, you accept the terms of the privacy policy.
+The information obtained when using the application may include:
+
+Information in server logs - our servers automatically record data such as the page request sent by the user, the date and time of the request, device type, device language, operating system type, IP address (IP address - each computer connected to the Internet is assigned a unique number, i.e. IP address).
+
+We use analytics.google.com and firebase.google.com, which are used to keep statistics for the application. The exact method of operation and privacy policy can be found on the Google Analytics website. Anonymous statistics allow us to learn about the expectations of our users and we develop applications to make it easier to reach the most frequently sought information.
+
+The owner of the service is Pawel Domzalski with headquarters in Rotmance, ul. Bajki 15/8. All data is collected in them using appropriate measures to protect confidentiality, integrity and information security.
+The collected data is used to provide specific services to our users and for administrative and statistical purposes.
+
+In order to effectively protect the collected data, we secure it against unauthorized access by third parties and control our methods of collecting, storing and processing information. We grant access to the data only to those employees and entities that must have access to it in order to process it solely for the purposes described in the privacy policy.
+
+We are not responsible for the privacy policies on websites to which the links posted in the application lead. Therefore, we encourage you to familiarize yourself with the rules applicable there after going to these websites.
+
+With the User's consent, Trusted Partners who use cookies or similar technologies to collect and process personal data in order to personalize content, as separate administrators, may have access to information about the use of the Service. Trusted Partners with whom the Administrator cooperates in connection with the use of their services or tools, allowing, among others, to personalize the content and services offered on the Service, belonging to the following categories: advertisers, media houses, companies offering tools for managing advertising campaigns and owners of websites. Partners may, among other things, analyze, compare and combine information from the Service with other information they have, e.g. related to the User's use of their services or the User's activity on other websites, as separate administrators. Information on the principles of processing personal data by Trusted Partners and the use of cookies and other technologies is provided in a manner established by them.
+
+In the event of changes to our privacy policy, it will be updated accordingly.
